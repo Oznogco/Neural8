@@ -7,5 +7,6 @@
   <body>
     <h1>Salut le monde !</h1>
     <p>C'est le premier fichier de mon nouveau dépôt Git.</p>
+    <p>Je vais tester cette plateforme pour évaluer son utilité...</p>
   </body>
 </html> 
